@@ -1,0 +1,6 @@
+../Core/Src/bootloader/bootloader_uart.c:42:1:usart_send_response	40	static
+../Core/Src/bootloader/bootloader_uart.c:79:1:usart_send_status	16	static
+../Core/Src/bootloader/bootloader_uart.c:96:1:usart_get_cmd	56	static
+../Core/Src/bootloader/bootloader_uart.c:163:1:usart_get_header	48	static
+../Core/Src/bootloader/bootloader_uart.c:231:1:usart_get_data	1072	static
+../Core/Src/bootloader/bootloader_uart.c:296:1:usart_get_key	48	static

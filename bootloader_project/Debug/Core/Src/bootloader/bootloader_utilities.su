@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/bootloader/bootloader_utilities.c:45:1:four_uint8t_to_one_uint32t	24	static
+../Core/Src/bootloader/bootloader_utilities.c:77:1:decrypt_data	32	static
+../Core/Src/bootloader/bootloader_utilities.c:94:1:find_word	24	static
+../Core/Src/bootloader/bootloader_utilities.c:125:1:check_crc	72	dynamic
+../Core/Src/bootloader/bootloader_utilities.c:170:1:check_cmd_type	24	static
+../Core/Src/bootloader/bootloader_utilities.c:210:1:restart	16	static

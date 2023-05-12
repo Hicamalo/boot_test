@@ -1,0 +1,2 @@
+../Core/Src/bootloader/bootloader.c:58:1:check_bootloader_mode	24	static
+../Core/Src/bootloader/bootloader.c:88:1:bootloader_mode	24	static

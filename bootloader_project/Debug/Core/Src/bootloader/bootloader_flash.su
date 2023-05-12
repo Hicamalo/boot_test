@@ -1,0 +1,4 @@
+../Core/Src/bootloader/bootloader_flash.c:43:1:erase_flash	48	static
+../Core/Src/bootloader/bootloader_flash.c:99:1:write_data_block_to_flash	48	static
+../Core/Src/bootloader/bootloader_flash.c:146:1:check_settings	40	static
+../Core/Src/bootloader/bootloader_flash.c:177:1:set_settings	56	static

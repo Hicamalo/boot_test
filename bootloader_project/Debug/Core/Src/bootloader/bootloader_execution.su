@@ -1,0 +1,9 @@
+../Core/Src/bootloader/bootloader_execution.c:39:6:send_uid	8	static
+../Core/Src/bootloader/bootloader_execution.c:50:1:set_key	24	static
+../Core/Src/bootloader/bootloader_execution.c:118:1:update_firmware	2096	static
+../Core/Src/bootloader/bootloader_execution.c:260:1:flash_ob_check	40	static
+../Core/Src/bootloader/bootloader_execution.c:281:1:flash_lock	40	static
+../Core/Src/bootloader/bootloader_execution.c:329:1:flash_unlock	40	static
+../Core/Src/bootloader/bootloader_execution.c:362:6:erase_program	8	static
+../Core/Src/bootloader/bootloader_execution.c:366:9:check_key	24	static
+../Core/Src/bootloader/bootloader_execution.c:432:1:execute_command	24	static

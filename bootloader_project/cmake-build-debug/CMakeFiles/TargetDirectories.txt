@@ -1,0 +1,3 @@
+C:/Users/SoloPC/STM32CubeIDE/workspace_1.10.1/bootloader_project/cmake-build-debug/CMakeFiles/bootloader_project.elf.dir
+C:/Users/SoloPC/STM32CubeIDE/workspace_1.10.1/bootloader_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SoloPC/STM32CubeIDE/workspace_1.10.1/bootloader_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
